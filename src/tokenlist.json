@@ -33,7 +33,7 @@
       "logoURI": "https://pulsexy.io/tokenlist/dai.png"
     },
     {
-      "name": "Wrapped Ethereum"
+      "name": "Wrapped Ethereum",
       "symbol": "WETH",
       "chainId": 369,
       "decimals": 18,
@@ -41,12 +41,12 @@
       "logoURI": "https://pulsexy.io/tokenlist/eweth.png"
     },
     {
-      "name": "USDT From Ethereum"
+      "name": "USDT From Ethereum",
       "symbol": "USDT",
       "chainId": 369,
       "decimals": 6,
       "address": "0x0Cb6F5a34ad42ec934882A05265A7d5F59b51A2f",
       "logoURI": "https://pulsexy.io/tokenlist/usdt.png"
-    },
+    }
   ]
 }
