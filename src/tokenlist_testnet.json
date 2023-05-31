@@ -1,0 +1,36 @@
+{
+  "name": "PulseXY Token List",
+  "timestamp": "2023-05-31T01:12:00Z",
+  "logoURI": "https://pulsexy.io/logo.png",
+  "version": {
+    "major": 12,
+    "minor": 3,
+    "patch": 2
+  },
+    "tokens": [
+    {
+      "name": "Wrapped PulseChain",
+      "symbol": "WPLS",
+      "chainId": 943,
+      "decimals": 18,
+      "address": "0x70499adEBB11Efd915E3b69E700c331778628707",
+      "logoURI": "https://pulsexy.io/tokenlist/wpls.png"
+    },  
+    {
+      "name": "HEX",
+      "symbol": "HEX",
+      "chainId": 943,
+      "decimals": 8,
+      "address": "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
+      "logoURI": "https://pulsexy.io/tokenlist/hex.png"
+    },
+     {
+      "name": "Dai Stablecoin",
+      "symbol": "tDAI",
+      "chainId": 943,
+      "decimals": 18,
+      "address": "0x826e4e896CC2f5B371Cd7Bb0bd929DB3e3DB67c0",
+      "logoURI": "https://pulsexy.io/tokenlist/dai.png"
+    },
+  ]
+}
