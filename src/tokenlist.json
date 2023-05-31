@@ -38,7 +38,7 @@
       "chainId": 369,
       "decimals": 18,
       "address": "0x02DcdD04e3F455D838cd1249292C58f3B79e3C3C",
-      "logoURI": "https://pulsexy.io/tokenlist/weth.png"
+      "logoURI": "https://pulsexy.io/tokenlist/eweth.png"
     },
     {
       "name": "USDT From Ethereum"
